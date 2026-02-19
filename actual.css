@@ -1,6 +1,6 @@
 /* High contrast light theme */
 
-/* Defining colors: #000, hsl(37, 100%, 21%), hsl(228, 100%, 33%), #fff, --color-pageBackground: hsl(0, 0%,  90%), hsl(90, 100%, 17%) */
+/* Defining colors: #000, hsl(37, 100%, 21%), hsl(228, 100%, 33%), #fff, hsl(0, 0%,  90%), hsl(90, 100%, 17%) */
 
 :root {
 
@@ -108,10 +108,10 @@
 --color-buttonMenuSelectedBorder: hsl(0, 0%, 76%);
 
 --color-buttonPrimaryDisabledText: hsl(0, 0%, 30%);
---color-buttonPrimaryText: #fff;
---color-buttonPrimaryTextHover: #fff;
---color-buttonPrimaryBackground: hsl(228, 100%, 35%);
---color-buttonPrimaryBackgroundHover: hsl(228, 100%, 50%);
+--color-buttonPrimaryText:hsl(228, 100%, 25%);
+--color-buttonPrimaryTextHover: hsl(228, 100%, 10%);
+--color-buttonPrimaryBackground: hsl(228, 100%, 90%);
+--color-buttonPrimaryBackgroundHover: hsl(228, 100%, 85%);
 --color-buttonPrimaryBorder: hsl(0, 0%, 0%);
 --color-buttonPrimaryDisabledBackground: hsl(0, 0%, 70%);
 --color-buttonPrimaryDisabledBorder: hsl(0, 0%, 70%);
