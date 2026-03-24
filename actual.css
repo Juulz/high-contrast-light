@@ -77,9 +77,9 @@
 --color-modalBackground: hsl(0, 0%, 95%);
 --color-modalBorder: hsl(0, 0%, 50%);
 
---color-mobileHeaderBackground: hsl(0, 0%, 50%);
---color-mobileHeaderText: hsl(0, 0%, 98%);
---color-mobileHeaderTextSubdued: hsl(0, 0%, 80%);
+--color-mobileHeaderBackground: hsl(0, 0%, 80%);
+--color-mobileHeaderText: #000;
+--color-mobileHeaderTextSubdued: hsl(0, 0%, 20%);
 --color-mobileHeaderTextHover: #000;
 --color-mobilePageBackground: hsl(0, 0%, 98%);
 --color-mobileNavBackground: #fff;
