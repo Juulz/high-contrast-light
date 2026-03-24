@@ -77,13 +77,13 @@
 --color-modalBackground: hsl(0, 0%, 95%);
 --color-modalBorder: hsl(0, 0%, 50%);
 
---color-mobileHeaderBackground: hsl(0, 0%, 60%);
+--color-mobileHeaderBackground: hsl(0, 0%, 50%);
 --color-mobileHeaderText: hsl(0, 0%, 98%);
 --color-mobileHeaderTextSubdued: hsl(0, 0%, 80%);
---color-mobileHeaderTextHover: rgba(200, 200, 200, .15);
+--color-mobileHeaderTextHover: #000;
 --color-mobilePageBackground: hsl(0, 0%, 98%);
 --color-mobileNavBackground: #fff;
---color-mobileNavItem: hsl(0, 0%, 64%);
+--color-mobileNavItem: hsl(0, 0%, 50%);
 --color-mobileNavItemSelected: hsl(0, 0%, 40%);
 --color-mobileAccountShadow: hsl(0, 0%, 70%);
 --color-mobileAccountText: hsl(0, 0%, 35%);
