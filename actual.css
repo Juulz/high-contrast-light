@@ -194,7 +194,7 @@
 --color-pillBackgroundLight: hsl(0, 0%, 98%);
 --color-pillText: #000;
 --color-pillTextHighlighted: hsl(0, 0%, 41%);
---color-pillBorder: hsl(0, 0%, 90%);
+--color-pillBorder: hsl(0, 0%, 70%);
 --color-pillBorderDark: hsl(0, 0%, 70%);
 --color-pillBackgroundSelected: #99ffff; /* hsl(0, 0%, 85%); */
 --color-pillTextSelected: hsl(0, 0%, 27%);
