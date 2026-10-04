@@ -4,6 +4,9 @@
 
 :root {
 
+--color-sidebarHeaderText: var(--color-sidebarBudgetName);
+--color-sidebarBrand: var(--color-sidebarBudgetName);  
+
 --color-pageBackground: hsl(0, 0%,  90%);
 --color-pageText: hsl(0, 0%,  0%);
 --color-pageTextSubdued: hsl(37, 100%, 21%);
